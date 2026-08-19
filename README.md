@@ -146,4 +146,4 @@ A separate Superstore project is used to demonstrate **MySQL database administra
 
 ## Author
 
-**Vikas Sovilkar**
+**Raj Sovilkar**
